@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Akash_Malhotra.pdf"
+        href="https://dibashchukeresume.tiiny.site"
         target="_blank"
         rel="noreferrer"
       >
