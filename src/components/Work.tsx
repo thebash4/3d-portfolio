@@ -5,32 +5,32 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
+    title: "Playwright + Pytest Automation",
+    category: "Automated UI testing framework for Shopping application ",
+    tools: "Page Object Model (POM), HTML reports, Github actions",
     image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    link: "https://github.com/thebash4/shopping-automation-tests",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
+    title: "Postman API automation",
+    category: "Validates RESTful APIs of a Shopping Application",
+    tools: "Postman",
     image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    link: "https://github.com/thebash4",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
+    title: "Cucumber BDD + Java Selenium",
+    category: "End-to-end test automation of an e-commerce web application",
     tools: "Property Discovery, Lead Management, Marketplace Workflows",
     image: "/images/broki.png",
-    link: "https://broki.in",
+    link: "https://github.com/thebash4/CucumberBDD_project",
   },
   {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
+    title: "Jmeter- Petstore workflow automation",
+    category: "End-to-end API test flow in JMeter to validate RESTful PetStore APIs",
+    tools: "Jmeter",
     image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    link: "https://github.com/thebash4/Jmeter_Demo/tree/main",
   },
 ];
 
