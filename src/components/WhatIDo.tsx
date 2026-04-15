@@ -87,20 +87,19 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>API Automation</h3>
+              <h4>Backend testing</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                API automation specialist building scalable test frameworks and validating backend systems so teams ship faster with reliable, high-quality releases.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">Jmeter</div>
+                <div className="what-tags">Test Case design</div>
+                <div className="what-tags">Postman</div>
+                <div className="what-tags">Json Validation</div>
+                <div className="what-tags">Microservice Integration</div>
+                <div className="what-tags">Automtion Strategy</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +123,20 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>UI Automation</h3>
+              <h4>Enhancing Quality Through Scalable Test Automation</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                I build UI automation that runs robust end-to-end test suites, ensuring seamless user experiences and enabling faster, more reliable releases.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">Selenium Java</div>
+                <div className="what-tags">Playwright Pytest</div>
+                <div className="what-tags">Test Automation Frameworks</div>
+                <div className="what-tags">BDD Cucumber</div>
+                <div className="what-tags">Page Object Model (POM)</div>
+                <div className="what-tags">Cross-Browser Testing</div>
+                <div className="what-tags">CI/CD Integration</div>
               </div>
               <div className="what-arrow"></div>
             </div>
