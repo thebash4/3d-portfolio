@@ -13,14 +13,15 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/react2.webp",
-  "/images/next2.webp",
-  "/images/node2.webp",
-  "/images/express.webp",
-  "/images/mongo.webp",
-  "/images/mysql.webp",
-  "/images/typescript.webp",
-  "/images/javascript.webp",
+  "/images/java.jpg",
+  "/images/python.jpg",
+  "/images/sql.jpg",
+  "/images/postmanlogo.webp",
+  "/images/jmeterlogo.webp",
+  "/images/bdd.jpg",
+  "/images/selenium.jpg",
+  "/images/cucumber.webp",
+  "/images/playwright-logo.png",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
